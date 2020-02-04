@@ -1,3 +1,7 @@
+'''
+web scraping reference:
+https://medium.com/renee0918/python-%E7%88%AC%E5%8F%96%E5%80%8B%E8%82%A1%E6%AD%B7%E5%B9%B4%E8%82%A1%E5%83%B9%E8%B3%87%E8%A8%8A-b6bc594c8a95
+'''
 # import package
 from datetime import date,timedelta
 from urllib.request import urlopen
